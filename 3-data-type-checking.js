@@ -1,6 +1,33 @@
+let nameOf = "Alice";
+
+let age = 25;
+let price = 19.99;
+
+let isStudent = true;
+
+let address;
+console.log(address);
+
+let phone = null;
+
+let id = Symbol("unique");
+
+let bigNumber = 1234567890123456789012345678901234567890n;
+
+let person = {
+  name: "Bob",
+  age: 30
+};
+
+let colors = ["red", "green", "blue"];
+
+function greet() {
+  console.log("Hello!");
+}
+
 //-------------Data type checking
 
-console.log(typeof name);      // "string"
+console.log(typeof nameOf);      // "string"
 console.log(typeof age);       // "number"
 console.log(typeof isStudent); // "boolean"
 console.log(typeof address);   // "undefined"
