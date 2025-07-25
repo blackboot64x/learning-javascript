@@ -24,8 +24,8 @@
 <h2>Connect & Explore More 🔗</h2>
 <p>Want to see more of my work or connect? Feel free to explore my other repositories and follow my journey!</p>
 <ul>
-<li>My GitHub Profile: [Your GitHub Profile Link Here] 👤</li>
-<li>Other Repositories: [Link to a specific repo or your GitHub repos page] 📂</li>
+<li>My GitHub Profile: [https://github.com/mdrefatalhasan] 👤</li>
+<li>Other Repositories: [https://github.com/mdrefatalhasan?tab=repositories] 📂</li>
 </ul>
 
 <p>Happy coding! Let's master JavaScript together! ✨</p>
